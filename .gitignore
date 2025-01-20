@@ -8,3 +8,5 @@ __pycache__
 # extra
 model
 data
+license_plates
+ocr_results
